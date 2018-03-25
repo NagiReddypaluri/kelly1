@@ -4,7 +4,7 @@ class sample
 {
 	public static void main(String args[])
 	{
-		system.out.println("Welcome to my village")
+		system.out.println("Welcome to my village Paluri Vari Palli")
 	}
 }
 
